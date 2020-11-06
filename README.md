@@ -38,6 +38,8 @@ Dev Tools is designed to **fix minor issues** on a web page
 If the page looks partially dark and bright in **Dynamic mode**, we consider it a bug.
 For **Filter mode**, it is a common practice to invert already dark page parts.
 
+To see a video of the process below, click [here](https://youtu.be/dNzmsv6R12U).
+
 - Open **Chrome Dev Tools** (F12) in Chrome or "Inspector" (Ctrl+Shift+C) in Firefox.
 - Click on **element picker** (top-left corner). It is enabled automatically in Firefox.
 - Pick wrongly inverted element.
